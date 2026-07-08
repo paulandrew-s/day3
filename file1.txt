@@ -1,0 +1,10 @@
+PC
+Linux
+Pyhton
+Java
+C++
+C
+Shell
+zsh
+fish
+atop
